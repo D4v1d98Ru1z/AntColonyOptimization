@@ -1,22 +1,25 @@
 body {
-    margin: 0;
-    padding: 0;
-    background: #fff;
-  }
-  canvas {
-    position: absolute;
-    top: 0;
-    left: 0;
-    margin: 0 auto;
-  }
-  p {
-    position: absolute;
-    margin: 10px;
-    background: #eee;
-  }
-  article {
-    position: absolute;
-    bottom: 10px;
-    left: 10px;
-    color: #8C4A74;
-  }
+  margin: 0;
+  padding: 0;
+  background: #fff;
+}
+
+canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin: 0 auto;
+}
+
+p {
+  position: absolute;
+  margin: 10px;
+  background: #eee;
+}
+
+article {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  color: #8C4A74;
+}
